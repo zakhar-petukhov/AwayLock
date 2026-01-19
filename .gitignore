@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Config with personal device UUID
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
